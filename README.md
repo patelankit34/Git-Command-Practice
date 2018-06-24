@@ -1,9 +1,6 @@
 Java EE Concepts
----
-
-A Java Maven project using Arqullian to explore Java EE concepts.
-
-The goal is to provide a smallish framework for exploration and testing of Java EE code without having to dig through piles of specifications.
+gA Java Maven projectf
+hfghfghfh and testing of Java EE code without having to dig through piles of specifications.
 
 This project, as was the creator's original intent, suits well for Java EE education making "live coding" a plausible alternative for the teacher.
 
